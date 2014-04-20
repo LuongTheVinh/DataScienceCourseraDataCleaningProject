@@ -1,4 +1,4 @@
-# "tidyData.txt" Data Definitions:
+# "tidyData.txt" Data Definitions
 
 "activity": factor variable with the following levels corresponding to the classified activities:
 * WALKING
@@ -81,7 +81,7 @@ Remaining columns have descriptive labels and contain various measurements from 
 
 
 
-# "tidyData2.txt" Data Definitions:
+# "tidyData2.txt" Data Definitions
 
 "activity . testSubject": factor variable capturing 180 interactions among 6 activity classes and 30 test subjects
 
